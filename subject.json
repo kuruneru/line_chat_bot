@@ -1,0 +1,13 @@
+[
+    {
+      "day": "today",
+      "subject": "English"
+    },
+    {
+      "day": "tomorrow",
+      "subject": "Math"
+    },
+    {
+      "day": "day_after_tomorrow"}
+]
+  
